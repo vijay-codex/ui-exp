@@ -1,0 +1,21 @@
+h1 {
+   color: red;
+}
+
+
+.static {
+  cursor: not-allowed;
+}
+
+.draggable {
+  cursor: move;
+  fill: #007bff;
+  fill-opacity: 0.1;
+  stroke: black;
+  stroke-width: 1;
+}
+
+#connection {
+  stroke-width: 2;
+  stroke: red;
+}
